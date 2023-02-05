@@ -2,6 +2,6 @@
  
 ## Data Diri
  
-- Nama: Aditya Rizki Ramadhan
+- Nama:  Aditya Rizki Ramadhan
 - NPM: 2108107010002
 - Prodi : S1-Informatika
